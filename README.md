@@ -1,6 +1,6 @@
 # Corona updates UI Design
 
-![ScreenShot](https://github.com/zeeshan5422/CoronaUpdatesDashboardUI/tree/master/assets/images/mackup.png)
+![ScreenShot](https://github.com/zeeshan5422/CoronaUpdatesDashboardUI/blob/master/assets/images/mockup.png)
 
 ## Getting Started
 
