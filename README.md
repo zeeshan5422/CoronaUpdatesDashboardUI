@@ -1,6 +1,6 @@
-# coronauichallange
+# Corona updates UI Design
 
-A new Flutter application.
+![alt text](https://github.com/zeeshan5422/CoronaUpdatesDashboardUI/tree/master/assets/images/mackup.png)
 
 ## Getting Started
 
