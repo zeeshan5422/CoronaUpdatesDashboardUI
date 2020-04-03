@@ -1,6 +1,6 @@
 # Corona updates UI Design
 
-![alt text](/master/assets/images/mackup.png)
+![ScreenShot](/master/assets/images/mackup.png)
 
 ## Getting Started
 
