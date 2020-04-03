@@ -1,6 +1,6 @@
 # Corona updates UI Design
 
-![alt text](https://github.com/zeeshan5422/CoronaUpdatesDashboardUI/tree/master/assets/images/mackup.png)
+![alt text](/master/assets/images/mackup.png)
 
 ## Getting Started
 
